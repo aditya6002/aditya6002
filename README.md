@@ -14,7 +14,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 💻 Full Stack Developer from **India** 🇮🇳
-## - 🎓 Currently in **Second Year** of my journey
 - 🔭 Working on **Backend Development & System Design**
 - 🌱 Mastering **Backend Technologies & Cloud Infrastructure**
 - 👯 Looking to collaborate on **Open Source Projects**
