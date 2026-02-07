@@ -15,11 +15,8 @@
 
 - 💻 Full Stack Developer from **India** 🇮🇳
 - 🔭 Working on **Backend Development & System Design**
-- 🌱 Mastering **Backend Technologies & Cloud Infrastructure**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, AWS, Docker**
-- 📫 Reach me at: **adityaofficial690@gmail.com**
 - 🎯 2024 Goals: **Contribute to Open Source & Build Production-Ready Apps**
+- 👯 Looking to collaborate on **Open Source Projects**
 
 ---
 
