@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Prakash;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya6002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/aditya6002?label=Followers&style=social" alt="followers" />
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -16,7 +10,6 @@
 - 💻 Full Stack Developer from **India** 🇮🇳
 - 🔭 Working on **Backend Development & System Design**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 📫 Reach me at: **adityaofficial690@gmail.com**
 
 ---
 
@@ -77,6 +70,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6002&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditya6002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/aditya6002?label=Followers&style=social" alt="followers" />
+
+</p>
 ---
 
 ## 🎯 Featured Projects
