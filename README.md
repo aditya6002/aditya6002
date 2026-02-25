@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,redux,nodejs,express,mongodb,mysql,aws,docker,git,github,html,css,tailwind,bootstrap,vscode,postman&perline=11" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,redux,nodejs,express,mongodb,mysql,docker,git,github,html,css,tailwind,bootstrap,vscode,postman&perline=11" />
 </p>
 
 ### 💻 Languages
@@ -45,7 +45,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🛠️ Tools & Platforms
