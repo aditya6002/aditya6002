@@ -56,6 +56,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya6002&theme=github_dark" alt="Aditya's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya6002&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya6002&theme=github_dark" alt="Most Used Languages" />
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
