@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,redux,nodejs,express,mongodb,mysql,docker,git,github,html,css,tailwind,bootstrap,vscode,postman&perline=11" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,redux,nodejs,express,mongodb,mysql,docker,git,github,html,css,sass,tailwind,bootstrap,vscode,postman&perline=11" />
 </p>
 
 ### 💻 Languages
@@ -25,6 +25,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
